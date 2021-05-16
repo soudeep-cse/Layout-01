@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+}
+
+.header {
+    height: 110px;
+    background-color: bisque;
+    width: 100%;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.navigation {
+    height: 70px;
+    background-color: royalblue;
+    width: 100%;
+}
+
+.navigation h1 {
+    text-align: center;
+}
+
+.content {
+    overflow: hidden;
+}
+
+.left-content {
+    background-color: chartreuse;
+    height: 300px;
+    width: 70%;
+    float: left;
+}
+
+.left-content h1 {
+    text-align: center;  
+}
+
+.right-content {
+    background-color: palevioletred;
+    height: 300px;
+    width: 30%;
+    float: left;
+}
+
+.right-content h1 {
+    text-align: center;
+}
+
+.footer {
+    background-color: red;
+    height: 90px;
+    width: 100%;
+}
+
+.footer h1 {
+    text-align: center;
+}
